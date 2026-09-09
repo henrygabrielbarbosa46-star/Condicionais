@@ -10,12 +10,17 @@ body{
 }
 
 .container{
-    background-color: #fff;
+    background-color: grey;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
     width: 300px;
     margin: auto;
+    margin-top: 10px;
+}
+
+.container p{
+    margin-top: 20px;
 }
 
 input{
